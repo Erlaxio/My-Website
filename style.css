@@ -1,0 +1,38 @@
+.top {
+    background: #333;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5%;
+}
+
+.top a {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.menu {
+    position: absolute;
+    left: 0;
+    top: 5%;
+    background: #545353;
+    height: 100%;
+    padding-right: 5%;
+}
+
+.menu h3 {
+    color: white;
+    font-size: 25px;
+    margin-left: 30%;
+}
+
+.main_body {
+    position: absolute;
+    top: 5%;
+    left: 12%;
+    width: 88%;
+    height: 100%;
+    background: rgb(222, 222, 222);
+    padding: 10px;
+}
